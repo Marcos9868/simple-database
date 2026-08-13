@@ -1,0 +1,14 @@
+*.d
+*.o
+*.ko
+*.obj
+*.elf
+*.ilk
+*.map
+*.exe
+*.gch
+*.pch
+*.lib
+*.a
+*.la
+*.lo
