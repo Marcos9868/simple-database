@@ -27,3 +27,4 @@
 *.idb
 *.pdb
 *.dwo
+.ccls-cache/
