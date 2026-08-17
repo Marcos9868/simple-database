@@ -1,0 +1,9 @@
+#ifndef PREPARE_RESULT_H
+#define PREPARE_RESULT_H
+
+typedef enum {
+  PREPARE_SUCCESS,
+  PREPARE_UNRECOGNIZED_STATEMENT
+} PrepareResult;
+
+#endif
